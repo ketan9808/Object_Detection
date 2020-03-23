@@ -125,5 +125,10 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# added by Ketan
+.ipynb_checkpoints
+yolo.h5
+sample.jpg
+
 # Pyre type checker
 .pyre/
